@@ -4,8 +4,7 @@
 
 Single product page website using bootstrap.
 
-See demo here: https://dynamic-malabi-6feb26.netlify.app
-
+See demo here: https://single-page-by-sarah.netlify.app
 <h1>UI Components</h1>
 
 - Modal window
